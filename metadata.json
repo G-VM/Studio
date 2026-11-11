@@ -1,0 +1,6 @@
+{
+  "name": "EduChange IT - Multi-Site Change Request Manager",
+  "description": "Streamlined, frictionless change management and site change tracking tailored for education IT teams across district campuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
